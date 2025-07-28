@@ -1,6 +1,6 @@
 <div align="center" >  
   <br><br>  
-  <h1>Senior Full Stack Developer</h1>
+  <h1>Senior Full Stack & Blockchain Developer</h1>
 </div>
 
 With over 10 years of experience in full-stack web and mobile app development for global businesses, I bring the technical expertise you're seeking for your Web and Mobile Developer position advertised on IT.
