@@ -53,6 +53,14 @@ Thank you for your time and consideration!
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/solidity-2752194-2285011.png" width="40" /></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/ethereum-2752196-2285023.png" width="40" /></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/qgis-3628944-3030204.png" width="40" /></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/arcgis-3628943-3030203.png" width="100" /></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mapbox-3628955-3030215.png" width="40" /></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/openstreetmap-3628957-3030217.png" width="40" /></td>
+  </tr>
 </table>
 
 <img align="right" alt="GIF" width="156px" height="156px"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
